@@ -12,4 +12,10 @@ Here we can see 10 instances of a phone number being dialed. If we take the Four
 ![picture2](https://user-images.githubusercontent.com/36385404/36336808-4305ab9c-1359-11e8-915c-117d9500d6c5.png)
 
 Looking at a dtmf frequency table, we can see that two values correspond to a number 9 being dialed 
+![keypad](https://user-images.githubusercontent.com/36385404/36336854-d3e30c7c-1359-11e8-8b2c-b9f38a8b573a.gif)
+
+
+## Limitations 
+
+As of now this program would most likely only work if the audio file had the phone numbers dialed evenly spaced apart. If the numbers were spaced apart in an unpredictable manner, our slicing method for capture the intervals to take the Fourier transform would not work. There can still be improvments
 
