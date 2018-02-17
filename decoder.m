@@ -1,5 +1,4 @@
 % Program created by Khoa Nguyen and James Lin
-
 clear; 
 [x,fs] = audioread('phone1.wav');
 t = (1:length(x))/fs; % Time Vector
