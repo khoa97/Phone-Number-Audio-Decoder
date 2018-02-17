@@ -9,4 +9,7 @@ This program applies the knowledge of frequency analysis to decode a ten-digit p
 
 Here we can see 10 instances of a phone number being dialed. If we take the Fourer transfrom at each instance in a certain time interval, we can determine what number was dialed. Here is an example of what the Fourier transform looks like for the first number dialed in the audio file. 
 
+![picture2](https://user-images.githubusercontent.com/36385404/36336808-4305ab9c-1359-11e8-915c-117d9500d6c5.png)
+
+Looking at a dtmf frequency table, we can see that two values correspond to a number 9 being dialed 
 
