@@ -17,5 +17,5 @@ Looking at a dtmf frequency table, we can see that two values correspond to a nu
 
 ## Limitations 
 
-As of now this program would most likely only work if the audio file had the phone numbers dialed evenly spaced apart. If the numbers were spaced apart in an unpredictable manner, our slicing method for capture the intervals to take the Fourier transform would not work. There can still be improvments
+As of now this program would most likely only work if the audio file had the phone numbers dialed evenly spaced apart. If the numbers were spaced apart in an unpredictable manner, our slicing method for capturing the intervals to take the Fourier transform would not work. There is a lot of room for improvments
 
